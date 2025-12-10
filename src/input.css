@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Add this to the top of your input.css file */
+:root {
+  color-scheme: light dark;
+}
